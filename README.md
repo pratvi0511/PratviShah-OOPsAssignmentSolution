@@ -11,10 +11,10 @@ Problem Statement
 → Super Department class will be the superclass and all other departments must extend it.
 
 → Super department will contain 4 methods of return type String and will not accept any parameter
-            <br />i)  departmentName 
-            <br />ii)  getTodaysWork  
-            <br />iii) getWorkDeadline
-            <br />iv) isTodayAHoliday
+            i)  departmentName 
+            ii)  getTodaysWork  
+            iii) getWorkDeadline
+            iv) isTodayAHoliday
 
 <br />departmentName will return “ Super Department “
 <br />getTodaysWork will return  “ No Work as of now”
@@ -22,9 +22,9 @@ Problem Statement
 <br />isTodayAHoliday will return “ Today is not a holiday”
 
 → Admin department will contain 3 methods of return type String and will not accept any parameter
-            <br />i)  departmentName 
-            <br />ii)  getTodaysWork  
-            <br />iii) getWorkDeadline
+            i)  departmentName 
+            ii)  getTodaysWork  
+            iii) getWorkDeadline
               
 <br />departmentName will return “ Admin Department “
 <br />getTodaysWork will return “Complete your documents Submission”
@@ -32,10 +32,10 @@ Problem Statement
 
 
 → Hr department will contain 4 methods of return type String and will not accept any parameter
-           <br />i)  departmentName 
-           <br />ii)  getTodaysWork  
-           <br />iii) getWorkDeadline
-           <br />iv) doActivity
+           i)  departmentName 
+           ii)  getTodaysWork  
+           iii) getWorkDeadline
+           iv) doActivity
 
 <br />departmentName will return “ Hr Department “
 <br />getTodaysWork will return  “ Fill today’s timesheet and mark your attendance”
@@ -43,10 +43,10 @@ Problem Statement
 <br />doActivity “team Lunch”
 
 → Tech department will contain 4 methods of return type String and will not accept any parameter
-             <br />i)  departmentName 
-             <br />ii)  getTodaysWork  
-             <br />iii) getWorkDeadline
-             <br />iv) getTechStackInformation
+             i)  departmentName 
+             ii)  getTodaysWork  
+             iii) getWorkDeadline
+             iv) getTechStackInformation
 
 <br />departmentName will return “ Tech Department “
 <br />getTodaysWork will return  “ Complete coding of module 1”
@@ -54,8 +54,8 @@ Problem Statement
 <br />getTechStackInformation will return “core Java”
 
 → Driver class Main will be used to create objects of HrDepartment, TechDepartment, AdminDepartment
-→ Each department will display all its functionalities.
-→ Each department  will display whether today is a holiday or not with the help of the Super Department. (SuperDepartment will act as a super class for all the departments)
+<br />→ Each department will display all its functionalities.
+<br />→ Each department  will display whether today is a holiday or not with the help of the Super Department. (SuperDepartment will act as a super class for all the departments)
 
 
 ----------------------------------------------------------------------------------------------------------------
