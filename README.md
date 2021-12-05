@@ -11,47 +11,47 @@ Problem Statement
 → Super Department class will be the superclass and all other departments must extend it.
 
 → Super department will contain 4 methods of return type String and will not accept any parameter
-            <br />   i)  departmentName 
-            <br />  ii)  getTodaysWork  
-           <br />   iii) getWorkDeadline
-            <br />  iv) isTodayAHoliday
+            <br />i)  departmentName 
+            <br />ii)  getTodaysWork  
+            <br />iii) getWorkDeadline
+            <br />iv) isTodayAHoliday
 
-departmentName will return “ Super Department “
-getTodaysWork will return  “ No Work as of now”
-getWorkDeadline will return “ Nil “
-isTodayAHoliday will return “ Today is not a holiday”
+<br />departmentName will return “ Super Department “
+<br />getTodaysWork will return  “ No Work as of now”
+<br />getWorkDeadline will return “ Nil “
+<br />isTodayAHoliday will return “ Today is not a holiday”
 
 → Admin department will contain 3 methods of return type String and will not accept any parameter
-            <br />   i)  departmentName 
-           <br />   ii)  getTodaysWork  
-           <br />   iii) getWorkDeadline
+            <br />i)  departmentName 
+            <br />ii)  getTodaysWork  
+            <br />iii) getWorkDeadline
               
-departmentName will return “ Admin Department “
-getTodaysWork will return “Complete your documents Submission”
-getWorkDeadline will return “ Complete by EOD “
+<br />departmentName will return “ Admin Department “
+<br />getTodaysWork will return “Complete your documents Submission”
+<br />getWorkDeadline will return “ Complete by EOD “
 
 
 → Hr department will contain 4 methods of return type String and will not accept any parameter
-           <br />    i)  departmentName 
-           <br />   ii)  getTodaysWork  
-           <br />   iii) getWorkDeadline
-           <br />   iv) doActivity
+           <br />i)  departmentName 
+           <br />ii)  getTodaysWork  
+           <br />iii) getWorkDeadline
+           <br />iv) doActivity
 
-departmentName will return “ Hr Department “
-getTodaysWork will return  “ Fill today’s timesheet and mark your attendance”
-getWorkDeadline will return “ Complete by EOD “
-doActivity “team Lunch”
+<br />departmentName will return “ Hr Department “
+<br />getTodaysWork will return  “ Fill today’s timesheet and mark your attendance”
+<br />getWorkDeadline will return “ Complete by EOD “
+<br />doActivity “team Lunch”
 
 → Tech department will contain 4 methods of return type String and will not accept any parameter
-              <br /> i)  departmentName 
-             <br /> ii)  getTodaysWork  
-             <br /> iii) getWorkDeadline
-             <br /> iv) getTechStackInformation
+             <br />i)  departmentName 
+             <br />ii)  getTodaysWork  
+             <br />iii) getWorkDeadline
+             <br />iv) getTechStackInformation
 
-departmentName will return “ Tech Department “
-getTodaysWork will return  “ Complete coding of module 1”
-getWorkDeadline will return “ Complete by EOD “
-getTechStackInformation will return “core Java”
+<br />departmentName will return “ Tech Department “
+<br />getTodaysWork will return  “ Complete coding of module 1”
+<br />getWorkDeadline will return “ Complete by EOD “
+<br />getTechStackInformation will return “core Java”
 
 → Driver class Main will be used to create objects of HrDepartment, TechDepartment, AdminDepartment
 → Each department will display all its functionalities.
