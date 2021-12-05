@@ -11,10 +11,10 @@ Problem Statement
 → Super Department class will be the superclass and all other departments must extend it.
 
 → Super department will contain 4 methods of return type String and will not accept any parameter
-               i)  departmentName 
-              ii)  getTodaysWork  
-              iii) getWorkDeadline
-              iv) isTodayAHoliday
+            <br />   i)  departmentName 
+            <br />  ii)  getTodaysWork  
+           <br />   iii) getWorkDeadline
+            <br />  iv) isTodayAHoliday
 
 departmentName will return “ Super Department “
 getTodaysWork will return  “ No Work as of now”
@@ -22,9 +22,9 @@ getWorkDeadline will return “ Nil “
 isTodayAHoliday will return “ Today is not a holiday”
 
 → Admin department will contain 3 methods of return type String and will not accept any parameter
-               i)  departmentName 
-              ii)  getTodaysWork  
-              iii) getWorkDeadline
+            <br />   i)  departmentName 
+           <br />   ii)  getTodaysWork  
+           <br />   iii) getWorkDeadline
               
 departmentName will return “ Admin Department “
 getTodaysWork will return “Complete your documents Submission”
@@ -32,10 +32,10 @@ getWorkDeadline will return “ Complete by EOD “
 
 
 → Hr department will contain 4 methods of return type String and will not accept any parameter
-               i)  departmentName 
-              ii)  getTodaysWork  
-              iii) getWorkDeadline
-              iv) doActivity
+           <br />    i)  departmentName 
+           <br />   ii)  getTodaysWork  
+           <br />   iii) getWorkDeadline
+           <br />   iv) doActivity
 
 departmentName will return “ Hr Department “
 getTodaysWork will return  “ Fill today’s timesheet and mark your attendance”
@@ -43,10 +43,10 @@ getWorkDeadline will return “ Complete by EOD “
 doActivity “team Lunch”
 
 → Tech department will contain 4 methods of return type String and will not accept any parameter
-               i)  departmentName 
-              ii)  getTodaysWork  
-              iii) getWorkDeadline
-              iv) getTechStackInformation
+              <br /> i)  departmentName 
+             <br /> ii)  getTodaysWork  
+             <br /> iii) getWorkDeadline
+             <br /> iv) getTechStackInformation
 
 departmentName will return “ Tech Department “
 getTodaysWork will return  “ Complete coding of module 1”
@@ -65,18 +65,18 @@ Expected Output
 
 Welcome to Admin Department
 <br />Complete your documents submission
-Complete by EOD 
-Today is not a Holiday
+<br />Complete by EOD 
+<br />Today is not a Holiday
 
- Welcome to HR Department
-team Lunch
-Fill today’s timesheet and mark your attendance
-Complete by EOD 
-Today is not a Holiday
+Welcome to HR Department
+<br />team Lunch
+<br />Fill today’s timesheet and mark your attendance
+<br />Complete by EOD 
+<br />Today is not a Holiday
 
 
- Welcome to Tech Department
-Complete coding of Module 1
-Complete by EOD 
- Core Java 
-Today is not a Holiday
+Welcome to Tech Department
+<br />Complete coding of Module 1
+<br />Complete by EOD 
+<br />Core Java 
+<br />Today is not a Holiday
